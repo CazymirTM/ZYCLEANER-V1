@@ -2,4 +2,6 @@
 
 A cache cleaning app made in WinForms (C#)
 
-__Scans temporary files (or prefetch files), and deletes them (if you want)__
+<ins>Scans temporary files (or prefetch files), and deletes them (if you want)</ins>
+
+__(Please run it as administrator as it needs UAC access to delete the files)__
