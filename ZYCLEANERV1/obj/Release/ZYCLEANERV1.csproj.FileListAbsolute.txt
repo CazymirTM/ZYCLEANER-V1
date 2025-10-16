@@ -1,0 +1,17 @@
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\bin\Release\ZYCLEANERV1.exe.config
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\bin\Release\ZYCLEANERV1.exe
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\bin\Release\ZYCLEANERV1.pdb
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\bin\Release\System.Diagnostics.EventLog.xml
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\bin\Release\System.ServiceProcess.ServiceController.xml
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.csproj.AssemblyReference.cache
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.MainForm.resources
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.Properties.Resources.resources
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.csproj.GenerateResource.cache
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.csproj.CoreCompileInputs.cache
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANE.7D9BF107.Up2Date
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.exe
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.pdb
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.exe.config
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.csproj.Fody.CopyLocal.cache
+C:\Users\ZeidCezeY\source\repos\ZYCLEANERV1\ZYCLEANERV1\obj\Release\ZYCLEANERV1.csproj.Fody.RuntimeCopyLocal.cache
