@@ -2,7 +2,6 @@
 
 A cache cleaning app made in WinForms (C#)
 
-<ins>Scans temporary files (or prefetch files), and deletes them (if you want)</ins>
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/ZYCLEANER-V1/releases/latest)
 
